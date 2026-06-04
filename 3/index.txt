@@ -1,0 +1,6 @@
+<!DOCTYPE html>
+<html>
+<body>
+<h1>PRUEBA IMPERIO ROYALE</h1>
+</body>
+</html>
